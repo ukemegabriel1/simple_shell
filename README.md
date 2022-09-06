@@ -1,2 +1,3 @@
 # simple_shell
-Our Second Alx Group Project
+
+This is an ALX Software Engineering Programme project. In this project we are tasked to create a shell similar to the bash shell. 
